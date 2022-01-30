@@ -1,0 +1,36 @@
+.box-container {
+  display: flex;
+  grid-template-columns: 25px;
+  height: 100%;
+}
+.box {
+  background-color: dodgerblue;
+  width: 25%;
+  height: 50%;
+  border: 25px black;
+}
+.box-2 {
+  background-color: orangered;
+  width: 25%;
+  height: 50%;
+}
+.box-3 {
+  background-color: violet;
+  width: 25%;
+  height: 50%;
+}
+.box-4 {
+  background-color: yellow;
+  width: 25%;
+  height: 50%;
+}
+.box-5 {
+  background-color: green;
+  width: 25%;
+  height: 50%;
+}
+.box-6 {
+  background-color: black;
+  width: 25%;
+  height: 50%;
+}
